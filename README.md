@@ -1,3 +1,3 @@
-# syscash
-trabalho que possui uma função de ajudar uma pessoa nas economias 
+# COBOL
+Aprendendo algumas coisas basiscas 
 
