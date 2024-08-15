@@ -9,5 +9,5 @@
        PROCEDURE DIVISION.
       *Contem o codiogo que ira manipular os dados e incluir o algoriti-
       *mo do programa
-           DISPLAY "HELLO WORD".
+           DISPLAY "HELLO WORLD".
            STOP RUN.
