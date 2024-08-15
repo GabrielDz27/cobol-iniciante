@@ -6,16 +6,19 @@
       *
        PROGRAM-ID. CEP010.
        AUTHOR. "Gabriel Dziecinny"
-       DATE-WRITTEN. 14/08/2024
-       DATA DIVISION.
-           
+       DATE-WRITTEN. 14/08/2024.
+       
       *----------------------------------------------------------------*
       *SISTEMA:     CE - CAIXA ELETRONICA 
       *JOB:         01 - OPERACOES    
-      *PROGRAMA:     0 - 
+      *PROGRAMA:     0 - COMECO DE TUDO
       *
       *
       *----------------------------------------------------------------*
+        
+      *----------------------------------------------------------------*
+       DATA DIVISION.
+
            WORKING-STORAGE SECTION.
            77 WS-OPCAO PIC X(2).
            77 WS-SALDO PIC 9(10)V99 VALUE ZERO.
